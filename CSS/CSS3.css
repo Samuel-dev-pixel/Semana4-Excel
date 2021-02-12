@@ -1,0 +1,1104 @@
+.Volver2{
+	position: absolute;
+	color: rgb(2,108,62);
+	top:1%;
+	left: 1%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Volver3{
+	position: absolute;
+	color: rgb(73,18,35);
+	top:1%;
+	left: 1%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Volver4{
+	position: absolute;
+	color: rgb(159,0,0);
+	top:1%;
+	left: 1%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Volver5{
+	position: absolute;
+	color: rgb(0,107,110);
+	top:1%;
+	left: 1%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Volver6{
+	position: absolute;
+	color: rgb(161,149,1);
+	top:1%;
+	left: 1%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Volver7{
+	position: absolute;
+	color: rgb(243,116,1);
+	top:1%;
+	left: 1%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Volver8{
+	position: absolute;
+	color:rgb(112,146,190);
+	top:1%;
+	left: 1%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Volver9{
+	position: absolute;
+	color: black;
+	top:10%;
+	left: 1%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Barra-sup{
+	background-color: rgb(0,0,0);
+	position: fixed;
+	left: 0%;
+	top: 0%;
+	width: 100%;
+	height: 20%;
+	z-index: 100;
+	color: white;
+	text-align: center;
+	font-size: 125px;
+	font-family: Fuente1;
+}
+.Sec1{
+    background-color: rgb(33,42,121);
+    position: absolute;
+    left: 0%;
+    top: 20%;
+    width: 100%;
+    height: 80%;
+    z-index: 1;
+}
+.Sec1-Text1{
+	position: absolute;
+	color: rgb(6,0,34);
+	font-size: 125px;
+	left: 10%;
+	top: 10%;
+	width: 80%;
+	height: 80%;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Siguiente{
+	position: absolute;
+	color: rgb(6,0,34);
+	top: 85%;
+	right: 5%;
+	width: 13%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec2{
+    background-color: rgb(163,197,0);
+    position: absolute;
+    left: 100%;
+    top: 20%;
+    width: 100%;
+    height: 80%;
+    z-index: 1;
+}
+.Siguiente2{
+	position: absolute;
+	color: rgb(2,108,62);
+	top: 1%;
+	right: 3%;
+	width: 13%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec2-Text1{
+	position: absolute;
+	color: rgb(2,108,62);
+	top: 10%;
+	height: 20%;
+    width: 100%;
+	font-size: 100px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec2-Text2{
+	position: absolute;
+	color: rgb(2,108,62);
+	top: 40%;
+	height: 50%;
+    width: 42.5%;
+    left: 5%;
+	font-size: 30px;
+	text-align: justify;
+	font-family: Fuente1;
+	z-index: 2;
+}
+@font-face{
+	font-family: Fuente1;
+	src: url('../FONT/LTInternet-Bold.ttf');
+}
+.Sec1-Img1{
+	position: absolute;
+	top: 25%;
+	left: 55%;
+	height: 72%;
+	width: 40%;
+	background-image: url(../IMG/Excel-logo.png);
+	background-size: cover;
+	z-index: 2;
+}
+.Barra-ver{
+	position: absolute;
+	background-color: rgb(2,108,62);
+	top: 35%;
+	height: 60%;
+	width: 0.5%;
+	left: 54%;
+	z-index: 2;
+}
+
+.Sec4{
+	background-color: rgb(152,38,71);
+    position: absolute;
+    left: 200%;
+    top: 20%;
+    width: 100%;
+    height: 80%;
+    z-index: 1;
+}
+.Sec4-Text1{
+	position: absolute;
+	color: rgb(73,18,35);
+	top: 5%;
+	height: 10%;
+    width: 100%;
+	font-size: 50px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec4-Text2{
+	position: absolute;
+	color: rgb(73,18,35);
+	top: 20%;
+	height: 31.5%;
+    width: 42.5%;
+    left: 5%;
+	font-size: 45px;
+	text-align: justify;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec4-Boton1{
+	position: absolute;
+	color: rgb(73,18,35);
+	top: 20%;
+	right: 40%;
+	width: 10.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec4-Boton2{
+	position: absolute;
+	color: rgb(73,18,35);
+	top: 20%;
+	right: 22%;
+	width: 13%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec4-Boton3{
+	position: absolute;
+	color: rgb(73,18,35);
+	top: 20%;
+	right: 3%;
+	width: 10.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec4-Boton4{
+	position: absolute;
+	color: rgb(73,18,35);
+	top: 47.5%;
+	right: 40%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec4-Boton5{
+	position: absolute;
+	color: rgb(73,18,35);
+	top: 47.5%;
+	right: 21%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec4-Boton6{
+	position: absolute;
+	color: rgb(73,18,35);
+	top: 47.5%;
+	right: 5%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec4-Boton7{
+	position: absolute;
+	color: rgb(73,18,35);
+	top:78%;
+	right: 32%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec4-Boton8{
+	position: absolute;
+	color: rgb(73,18,35);
+	top:78%;
+	right: 11%;
+	width: 11.5%;
+	height: 10%;
+	font-size: 45px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+
+.Sec5{
+	background-color: rgb(218,37,28);
+    position: absolute;
+    left: 300%;
+    top: 20%;
+    width: 100%;
+    height: 80%;
+    z-index: 1;
+}
+.Sec5-Text1{
+	position: absolute;
+	color: rgb(159,0,0);
+	top: 5%;
+	height: 10%;
+    width: 100%;
+	font-size: 50px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec5-Text2{
+	position: absolute;
+	color: rgb(159,0,0);
+	top: 20%;
+	height: 10%;
+    width: 100%;
+	font-size: 50px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec5-Text2-Part1{
+	position: absolute;
+	color: rgb(159,0,0);
+	top: 20%;
+	height: 10%;
+    width: 26%;
+    left: 11.5%;
+	font-size: 30px;
+	text-align: right;
+	font-family: Fuente1;
+	z-index: 5;
+	opacity: 0;
+}
+.Sec5-Text2-Part2{
+	position: absolute;
+	color: rgb(159,0,0);
+	top: 20%;
+	height: 10%;
+    width: 28.2%;
+    left: 38.8%;
+	font-size: 30px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 5;
+	opacity: 0;
+}
+.Sec5-Text2-Part3{
+	position: absolute;
+	color: rgb(159,0,0);
+	top: 20%;
+	height: 10%;
+    width: 20.4%;
+    left: 68%;
+	font-size: 30px;
+	text-align: left;
+	font-family: Fuente1;
+	z-index: 5;
+	opacity: 0;
+}
+.Sec5-Text3{
+	position: absolute;
+	color: rgb(159,0,0);
+	top: 38%;
+	height: 56%;
+    width: 40%;
+    left: 5%;
+	font-size: 25px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec5-Barraver{
+	position: absolute;
+	background-color: rgb(159,0,0);
+	top: 36%;
+	height: 60%;
+	width: 0.5%;
+	left: 49.75%;
+	z-index: 2;
+}
+.Sec5-Img{
+	position: absolute;
+	top: 38%;
+	right: 5%;
+	height: 56%;
+	width: 40%;
+	background-size: cover;
+	background-image: url(../IMG/SI-Funcion.png);
+	animation-name: CDI;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	border-radius: 20%;
+}
+
+@keyframes CDI{
+   33% {background-image: url(../IMG/SI-Funcion.png);}
+   66% {background-image: url(../IMG/SI-MENOR.png);}
+   100% {background-image: url(../IMG/SI-MAYOR.png);}
+}
+
+.none {display: none;}
+
+.Sec5-Textr{
+		position: absolute;
+	color: rgb(159,0,0);
+	top: 38%;
+	height: 56%;
+    width: 40%;
+    right: 5%;
+	font-size: 25px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+
+.Sec5-Textpl{
+		position: absolute;
+	color: rgb(159,0,0);
+	top: 38%;
+	height: 56%;
+    width: 40%;
+    right: 5%;
+	font-size: 33px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+
+.Sec5-Textf{
+		position: absolute;
+	color: rgb(159,0,0);
+	top: 38%;
+	height: 56%;
+    width: 40%;
+    right: 5%;
+	font-size: 55px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+
+.Sec5-Textv{
+		position: absolute;
+	color: rgb(159,0,0);
+	top: 38%;
+	height: 56%;
+    width: 40%;
+    right: 5%;
+	font-size: 52px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+
+
+
+
+.Sec6{
+	background-color: rgb(0,170,170);
+    position: absolute;
+    left: 400%;
+    top: 20%;
+    width: 100%;
+    height: 80%;
+    z-index: 1;
+}
+.Sec6-Text1{
+    position: absolute;
+	color: rgb(0,107,110);
+	top: 5%;
+	height: 10%;
+    width: 48%;
+    left: 1%;
+	font-size: 50px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec6-Text2{
+    position: absolute;
+	color: rgb(0,107,110);
+	top: 5%;
+	height: 10%;
+    width: 48%;
+    right: 1%;
+	font-size: 50px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec6-Barraver{
+	position: absolute;
+	background-color: rgb(0,107,110);
+	top: 3%;
+	height: 94%;
+	width: 0.5%;
+	left: 49.75%;
+	z-index: 2;
+}
+.Sec6-Text3{
+	position: absolute;
+	color: rgb(0,107,110);
+	top: 20%;
+	height: 40%;
+    width: 48%;
+    left: 1%;
+	font-size: 25px;
+	text-align: justify;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec6-Text4{
+	position: absolute;
+	color: rgb(0,107,110);
+	top: 20%;
+	height: 40%;
+    width: 48%;
+    left: 51%;
+	font-size: 25px;
+	text-align: justify;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec6-Boton1{
+    position: absolute;
+    text-align: center;
+    top: 65%;
+    width: 12%;
+    left: 9%;
+    height: 8%;
+    color: rgb(0,107,110);
+    font-family: Fuente1;
+    font-size: 30px;
+}
+.Sec6-Text5{
+	position: absolute;
+	color: rgb(0,107,110);
+	top: 80.5%;
+	height: 10%;
+    width: 23%;
+    left: 1%;
+	font-size: 42px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec6-Text6{
+	position: absolute;
+	color: rgb(0,107,110);
+	top: 82.5%;
+	height: 10%;
+    width: 23%;
+    left: 51%;
+	font-size: 33px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec6-Img1{
+	position: absolute;
+	top: 80%;
+	height: 12.5%;
+	width: 23%;
+	left: 26%;
+	background-image: url(../IMG/sumar-rango.png);
+	z-index: 2;
+	animation-name: Sumap;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	background-size: cover;
+}
+@keyframes Sumap{
+	50% {background-image: url(../IMG/sumar-rango.png);}
+	100% {background-image: url(../IMG/sumar-resultado.png);}
+}
+
+.Sec6-Img3{
+	position: absolute;
+	top: 80%;
+	height: 12.5%;
+	width: 23%;
+	left: 26%;
+	background-image: url(../IMG/sumar-selección.png);
+	z-index: 2;
+	animation-name: Sumas;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	background-size: cover;
+}
+@keyframes Sumas{
+	50% {background-image: url(../IMG/sumar-selección.png);}
+	100% {background-image: url(../IMG/sumar-resultado.png);}
+}
+
+.Sec6-Img2{
+	position: absolute;
+	top: 80%;
+	height: 12.5%;
+	width: 23%;
+	left: 76%;
+	background-image: url(../IMG/promedio-rango.png);
+	z-index: 2;
+	background-size: cover;
+	animation-name: Promediop;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+@keyframes Promediop {
+	50% {background-image: url(../IMG/promedio-rango.png);}
+	100% {background-image: url(../IMG/promedio-resultado.png);}
+}
+
+.Sec6-Img4{
+	position: absolute;
+	top: 80%;
+	height: 12.5%;
+	width: 23%;
+	left: 76%;
+	background-image: url(../IMG/promedio-selección.png);
+	z-index: 2;
+	background-size: cover;
+	animation-name: Promedios;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+@keyframes Promedios {
+	50% {background-image: url(../IMG/promedio-selección.png);}
+	100% {background-image: url(../IMG/promedio-resultado.png);}
+}
+
+.Sec6-Boton2{
+    position: absolute;
+    text-align: center;
+    top: 65%;
+    width: 12%;
+    left: 29%;
+    height: 8%;
+    color: rgb(0,107,110);
+    font-family: Fuente1;
+    font-size: 30px;
+}
+.Sec6-Boton3{
+    border-color: black;
+    position: absolute;
+    text-align: center;
+    top: 65%;
+    width: 12%;
+    left: 59%;
+    height: 8%;
+    color: rgb(0,107,110);
+    font-family: Fuente1;
+    font-size: 30px;
+}
+.Sec6-Boton4{
+    border-color: black;
+    position: absolute;
+    text-align: center;
+    top: 65%;
+    width: 12%;
+    left: 79%;
+    height: 8%;
+    color: rgb(0,107,110);
+    font-family: Fuente1;
+    font-size: 30px;
+}
+
+.Sec7{
+    background-color: rgb(255,239,1);
+    position: absolute;
+    left: 500%;
+    top: 20%;
+    width: 100%;
+    height: 80%;
+    z-index: 1;
+}
+.Sec7-Text1{
+	position: absolute;
+	color: rgb(161,149,1);
+	top: 5%;
+	height: 10%;
+    width: 100%;
+	font-size: 50px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec7-Text2{
+	position: absolute;
+	color: rgb(161,149,1);
+	top: 20%;
+	height: 12.5%;
+    width: 90%;
+    left: 5%;
+	font-size: 30px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec7-Boton1{
+    position: absolute;
+    text-align: center;
+    top: 41.7%;
+    width: 30%;
+    left: 5%;
+    height: 20%;
+    color: rgb(0,107,110);
+    font-family: Fuente1;
+    font-size: 30px;
+}
+
+.Sec7-img1{
+    border-radius: 10%;
+    position: absolute;
+    text-align: center;
+    top: 41.7%;
+    width: 55%;
+    left: 40%;
+    height: 20%;
+    font-family: Fuente1;
+    background-image: url(../IMG/contar-seleccion.png);
+    font-size: 30px;
+    background-size: cover;
+    animation-name: contaruno;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes contaruno {
+	40% {background-image: url(../IMG/contar-seleccion.png);}
+	90% {background-image: url(../IMG/contar-resultado.png);}
+	100% {background-image: url(../IMG/contar-seleccion.png);}
+}
+
+.Sec7-Boton2{
+    border-color: black;
+    position: absolute;
+    text-align: center;
+    top: 70.9%;
+    width: 30%;
+    left: 5%;
+    height: 20%;
+    color: rgb(0,107,110);
+    font-family: Fuente1;
+    font-size: 30px;
+}
+
+.Sec7-img2{
+    border-radius: 10%;
+    position: absolute;
+    text-align: center;
+    top: 70.9%;
+    width: 55%;
+    left: 40%;
+    height: 20%;
+    font-family: Fuente1;
+    background-image: url(../IMG/contar-funcion.png);
+    font-size: 30px;
+    background-size: cover;
+    animation-name: contardos;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes contardos {
+	40% {background-image: url(../IMG/contar-funcion.png);}
+	90% {background-image: url(../IMG/contar-resultado.png);}
+	100% {background-image: url(../IMG/contar-funcion.png);}
+}
+
+.Sec8{
+	background-color: rgb(250,176,1);
+    position: absolute;
+    left: 600%;
+    top: 20%;
+    width: 100%;
+    height: 80%;
+    z-index: 1;
+}
+.Sec8-Text1{
+	position: absolute;
+	color: rgb(243,116,1);
+	top: 5%;
+	height: 10%;
+    width: 100%;
+	font-size: 50px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec8-Boton1{
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    width: 13%;
+    left: 4.5%;
+    height: 10%;
+    color: rgb(219,73,26);
+    font-family: Fuente1;
+    font-size: 30px;
+}
+.Sec8-Boton2{
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    width: 13%;
+    left: 30.5%;
+    height: 10%;
+    color: rgb(219,73,26);
+    font-family: Fuente1;
+    font-size: 30px;
+}
+.Sec8-Boton3{
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    width: 13%;
+    left: 56.5%;
+    height: 10%;
+    color: rgb(219,73,26);
+    font-family: Fuente1;
+    font-size: 30px;
+}
+.Sec8-Boton4{
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    width: 13%;
+    left: 82.5%;
+    height: 10%;
+    color: rgb(219,73,26);
+    font-family: Fuente1;
+    font-size: 30px;
+}
+.Sec8-Text2{
+	position: absolute;
+	color: rgb(243,116,1);
+	top: 51.75%;
+	height: 26.5%;
+    width: 40%;
+    left: 5%;
+	font-size: 30px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec8-Barraver{
+	position: absolute;
+	background-color: rgb(243,116,1);
+	top: 32%;
+	height: 66%;
+	width: 0.5%;
+	left: 49.75%;
+	z-index: 2;
+}
+.Sec8-Img1{
+	position: absolute;
+	top: 34%;
+	height: 64%;
+	width: 40%;
+	right: 5%;
+	background-size: contain;
+	z-index: 2;
+	background-image: url(../IMG/Buscarv-funcion.png);
+	animation-name: Secocho-imagen;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+}
+@keyframes Secocho-imagen{
+	40% {background-image: url(../IMG/Buscarv-funcion.png);}
+	90% {background-image: url(../IMG/Buscarv-resultado.png);}
+	100% {background-image: url(../IMG/Buscarv-funcion.png);}
+}
+
+
+
+.Sec9{
+	background-color: rgb(153,217,234);
+    position: absolute;
+    left: 700%;
+    top: 20%;
+    width: 100%;
+    height: 80%;
+    z-index: 1;
+}
+.Sec9-Text1{
+	position: absolute;
+	color: rgb(112,146,190);
+	top: 5%;
+	height: 10%;
+    width: 100%;
+	font-size: 50px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec9-Text2{
+	position: absolute;
+	color: rgb(112,146,190);
+	top: 20%;
+	height: 5%;
+    width: 90%;
+    left: 5%;
+	font-size: 30px;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec9-Barraver {
+	position: absolute;
+	width: 0.5%;
+	height: 54%;
+	left: 49.75%;
+	top: 43%;
+	background-color: rgb(112,146,190);
+}
+.Sec9-Boton1{
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    width: 15%;
+    left: 17.5%;
+    height: 10%;
+    color: rgb(40,62,89);
+    font-family: Fuente1;
+    font-size: 30px;
+}
+.Sec9-Boton2{
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    width: 15%;
+    right: 17.5%;
+    height: 10%;
+    color: rgb(40,62,89);
+    font-family: Fuente1;
+    font-size: 30px;
+}
+.Sec9-Text3 {
+	position: absolute;
+	top: 45%;
+	left: 2.5%;
+	width: 45%;
+	height: 10%;
+	color: rgb(112,146,190);
+	font-family: Fuente1;
+	font-size: 27.5px;
+	text-align: center;
+}
+.Sec9-Text4 {
+	position: absolute;
+	top: 60%;
+	left: 2.5%;
+	width: 45%;
+	height: 35%;
+	color: rgb(112,146,190);
+	font-family: Fuente1;
+	font-size: 27.5px;
+	text-align: justify;
+}
+.Sec9-Img1 {
+	position: absolute;
+	top: 60%;
+	right: 2.5%;
+	width: 45%;
+	height: 35%;
+	background-image: url(../IMG/Indice-funcion);
+	animation-name: Nueveimguno;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes Nueveimguno {
+	50% {background-image: url(../IMG/Indice-funcion);}
+	100% {background-image: url(../IMG/Indice-resultado);}
+}
+
+.Sec9-Img1 {
+	display: block;
+	position: absolute;
+	top: 60%;
+	right: 2.5%;
+	width: 45%;
+	height: 35%;
+	background-size: cover;
+	background-image: url(../IMG/Indice-funcion.png);
+	animation-name: Nueveimguno;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes Nueveimguno {
+	50% {background-image: url(../IMG/Indice-funcion.png);}
+	100% {background-image: url(../IMG/Indice-resultado.png);}
+}
+
+.Sec9-Img2 {
+	display: block;
+	position: absolute;
+	top: 60%;
+	background-size: cover;
+	right: 2.5%;
+	width: 45%;
+	height: 35%;
+	background-image: url(../IMG/coincidir-funcion.png);
+	animation-name: Nueveimgdos;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes Nueveimgdos {
+	50% {background-image: url(../IMG/coincidir-funcion.png);}
+	100% {background-image: url(../IMG/coincidir-resultado.png);}
+}
+
+.Sec10{
+	background-color: #2A2A2A;
+    position: absolute;
+    left: 800%;
+    top: 20%;
+    width: 100%;
+    height: 80%;
+    z-index: 1;
+}
+.Sec10-Text1{
+	position: absolute;
+	color: #D1CFCF
+	top: 5%;
+	height: 10%;
+    width: 100%;
+	font-size: 50px;
+	background-color: #2A2A2A;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.Sec10-Text2{
+	position: absolute;
+	color: #D1CFCF;
+	top: 20%;
+	height: 10%;
+    width: 100%;
+	font-size: 25px;
+	background-color: #2A2A2A;
+	text-align: center;
+	font-family: Fuente1;
+	z-index: 2;
+}
+.video10{
+	position: absolute;
+	top: 40%;
+	left: 30%;
+	width: 40%;
+	height: 55%;
+}
